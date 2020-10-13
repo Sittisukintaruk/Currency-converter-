@@ -1,2 +1,8 @@
-# Game_Redrunner_2D
- ทำเองเล่นเองใจพอ
+# Currency converter (โปรแกรมแปลงค่าเงินต่างประเทศ) Version 1.0
+สามารถรันได้เลยผ่านไฟล์
+-Currency_Coverter.jar
+
+ 
+ 
+ 
+ 
