@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Currency_Cobverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Currency_Cobverter_jar</output-path>
+    <root id="archive" name="Currency_Cobverter.jar">
+      <element id="module-output" name="Currency_Cobverter" />
+      <element id="extracted-dir" path="$JavaFX$/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX$/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX$/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX$/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX$/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX$/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX$/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX$/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/java/okhttp-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/java/sim/json-20200518.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/java/javafx-sdk-15/bin" />
+    </root>
+  </artifact>
+</component>
