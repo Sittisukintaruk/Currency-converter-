@@ -2,6 +2,8 @@
 สามารถรันได้เลยผ่านไฟล์
 -Currency_Coverter.jar
 
+GET API จาก Website
+Response >> เป็นข้อมูลใน Combobox
  
  
  
